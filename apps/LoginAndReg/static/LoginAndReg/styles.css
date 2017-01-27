@@ -1,0 +1,36 @@
+* {
+  font-family: monospace;
+}
+
+form.delete {
+  display: inline-block;
+}
+  form.delete input {
+    background-color: red;
+    color: white;
+  }
+
+li {
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+div {
+  width: 200px;
+  display: inline-block;
+  color: blue;
+  vertical-align: top;
+}
+
+form {
+  width: 180px;
+  margin-top: 10px;
+}
